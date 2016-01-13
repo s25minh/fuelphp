@@ -49,5 +49,8 @@
             "php oil r install"
         ]
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*"
+	}
 }
